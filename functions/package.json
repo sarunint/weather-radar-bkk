@@ -11,8 +11,11 @@
   },
   "main": "lib/index.js",
   "dependencies": {
+    "axios": "^0.18.0",
+    "child-process-promise": "^2.2.1",
     "firebase-admin": "~5.12.1",
-    "firebase-functions": "^1.0.3"
+    "firebase-functions": "^1.0.3",
+    "twitter": "^1.7.1"
   },
   "devDependencies": {
     "tslint": "^5.8.0",
